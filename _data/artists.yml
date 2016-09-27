@@ -1,0 +1,36 @@
+- name: "Andrei Codrescu"
+  artist: "Andrei Codrescu"
+  bio: "Andrei is an homme-de-lettres whose poetry, novels, and essays have been infiltrating the American psyche since he emigrated from his native Romania to Detroit in 1966. He is the author of forty books of poetry, fiction, and essays, and the founder of Exquisite Corpse: A Journal of Life & Letters. He has received a Peabody award for his film Road Scholar, and has been a commentator on NPR’s All Things Considered since 1983. He lives in New Orleans, the Ozarks, and New York."
+  art: "Poetry"
+- name: "rachelle bijou"
+  artist: "Rachelle Bijou"
+  bio: "Rachelle Bijou is a New Yorker who lived and worked in Paris for several years. She the author of The Office Minstrel: Poems, New York and Paris, 1970s to 2010."
+  art: "Poetry"
+- name: daniel rosenbaum
+  artist: Daniel Rosenbaum
+  bio: Daniel Rosenbaum has lived and worked in New York City since 1985. He received his B.F.A. from The School of Visual Arts and his M.F.A. from Brooklyn College, also having attended the New York Studio School of Painting and Rhode Island School of Design. His work has been featured in group shows in every year of his professional career and written about in both ​Art Critical​ and the ​New York Times​.
+  art: Painting
+- name: Hillary Keel
+  artist: Hillary Keel
+  bio: "Hillary Keel’s poetry has been published in Dear Sir, Gangway Magazine, Driesch Zeitschrift, Beehive Magazine, The Pulchritudinous Review, Monkey Puzzle, Live Mag!, not enough night, and in newspapers, journals and anthologies. She was recently awarded a Shuster Award by Hunter College to support her poetic, collaborative projects in Austria."
+  art: Poetry
+- name: David Geiser
+  artist: David Geiser
+  bio: "Artist, shown internationally, did Underground Comix 60's-70's"
+  art: Art
+- name: Tamra Plotnick
+  artist: Tamra Plotnick
+  bio: "Tamra Plotnick’s poetry and prose has been published in various journals and anthologies, including: Lurch; The Waiting Room Reader, Vol II: Words to Keep You Company; and ??Global City Review: International Edition??. She teaches at The James Baldwin School, dances often, and lives with husband, son and daughter in Brooklyn."
+  art: Poetry
+- name: Joseph Nechvatal
+  artist: Joseph Nechvatal
+  bio: "Since 1986 Joseph Nechvatal has worked with computer software and computer-robotics to make paintings, shown regularly in galleries and museums throughout the world. His book of essays Towards an Immersive Intelligence: Essays on the Work of Art in the Age of Computer Technology and Virtual Reality (1993-2006) was published by Edgewise Press in 2009. In 2011 his book Immersion Into Noise was published by the University of Michigan Library's Scholarly Publishing Office in conjunction with the Open Humanities Press." 
+  art: Art
+- name: Michael Rothenberg
+  artist: Michael Rothenberg
+  bio: "Michael Rothenberg is the editor of BigBridge.org and co-founder of 100 Thousand Poets for Change. His most recent book of poems is Sapodilla (Swan World, Paris, France). A bi-lingual edition of Indefinite Detention: A Dog Story and the journals Tally Ho and the Cowboy Dream/The Real and False Journals: Book 5?? will be published by Varasek Ediciones (Madrid, Spain, 2017)."
+  art: Poetry
+- name: Kianja Strobert
+  artist: Kianja H. Strobert
+  bio: KIANJA H. STROBERT has had solo shows at the Studio Museum of Harlem and the Santa Monica Museum of Art. She earned her MFA from Yale University School of Art. Kianja currently lives and works in Hudson NY and is represented by the Jack Tilton Gallery, NYC.
+  art: Art
