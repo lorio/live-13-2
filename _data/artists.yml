@@ -6,17 +6,17 @@
   artist: "Rachelle Bijou"
   bio: "Rachelle Bijou is a New Yorker who lived and worked in Paris for several years. She the author of The Office Minstrel: Poems, New York and Paris, 1970s to 2010."
   art: "Poetry"
-- name: daniel rosenbaum
-  artist: Daniel Rosenbaum
-  bio: Daniel Rosenbaum has lived and worked in New York City since 1985. He received his B.F.A. from The School of Visual Arts and his M.F.A. from Brooklyn College, also having attended the New York Studio School of Painting and Rhode Island School of Design. His work has been featured in group shows in every year of his professional career and written about in both ​Art Critical​ and the ​New York Times​.
-  art: Painting
-- name: Hillary Keel
-  artist: Hillary Keel
-  bio: "Hillary Keel’s poetry has been published in Dear Sir, Gangway Magazine, Driesch Zeitschrift, Beehive Magazine, The Pulchritudinous Review, Monkey Puzzle, Live Mag!, not enough night, and in newspapers, journals and anthologies. She was recently awarded a Shuster Award by Hunter College to support her poetic, collaborative projects in Austria."
+- name: denise Duhamel
+  artist: Denise Duhamel
+  bio: Bio goes here
   art: Poetry
+- name: Inka Essenhigh
+  artist: Inka Essenhigh
+  bio: Born in 1969, Inka Essenhigh earned her BFA from Columbus College of Art and Design in Ohio, and her MFA from the School of visual Arts in New York. Her paintings have been exhibited internationally, in commercial galleries as well as at many museums.
+  art: Art
 - name: David Geiser
   artist: David Geiser
-  bio: "Artist, shown internationally, did Underground Comix 60's-70's"
+  bio: "David Geiser has had his work exhibited internationally over the last 40 years. He has lived and worked in Paris, San Francisco and New York City. Currently he lives in East Hampton  NY with his wife actress Mercedes Ruehl and their son Jake. His studio is right down the road from Jackson Pollock's house and studio. In the late 60's and early 70's Geiser wrote and drew Underground Comix, with 8 books and titles to his credit. Many of these titles are now in museum collections. He is currently represented by galleries in NYC, East Hampton. Miami, Chicago, LA, DC, and in Portland, Oregon, with Butters Gallery Ltd. where this piece was featured in a solo show June '16."
   art: Art
 - name: Tamra Plotnick
   artist: Tamra Plotnick
@@ -32,5 +32,37 @@
   art: Poetry
 - name: Kianja Strobert
   artist: Kianja H. Strobert
-  bio: KIANJA H. STROBERT has had solo shows at the Studio Museum of Harlem and the Santa Monica Museum of Art. She earned her MFA from Yale University School of Art. Kianja currently lives and works in Hudson NY and is represented by the Jack Tilton Gallery, NYC.
+  bio: KIANJA H. STROBERT has had solo shows at the Studio Museum of Harlem and the Santa Monica Museum of Art. She earned her MFA from Yale University School of Art. Kianja currently lives and works in Hudson NY. Image courtesy of the artist and Jack Tilton Gallery, NYC.
   art: Art
+- name: Chris Dean
+  artist: Chris Dean
+  art: Art
+  bio: Bio goes here
+- name: Anton Yakovlev
+  artist: Anton Yakovlev
+  art: Poetry
+  bio: "Born in Moscow, Russia, Anton Yakovlev is the author of poetry chapbooks Ordinary Impalers (early 2017), The Ghost of Grant Wood (2015), and Neptune Court (2015). His poems have appeared in The New Yorker, The Hopkins Review, Prelude, and elsewhere. His book of translations of poetry by Sergei Esenin is forthcoming in 2017. He has also directed several short films."
+- name: Barry Wallenstein
+  artist: Barry Wallenstein
+  art: Poetry
+  bio: "Barry Wallenstein lives in New York City. His poems first appeared in 1964 and since then he has published nine collections, the most recent being At the Surprise Hotel (Ridgeway Press, 2016). In the early 1970's, collaborating with jazz artists in performing and recording his poetry, he established long term relationships with renowned jazz artists. He continues to perform with musicians internationally."
+- name: Damon Davis
+  artist: Damon Davis
+  art: Art
+  bio: Damon Davis is a multi-disciplinary artist based in St. Louis, MO. heartacheandpaint.com.
+- name: Alex Harsley
+  artist: Alex Harsley
+  art: Art
+  bio: Alex Harsley is a native of Rock Hill, South Carolina, and grew up in New York City.  His images have been seen in numerous one-person and group exhibitions national and international and are represented in many private collections.
+- name: Elisabeth Kley
+  artist: Elisabeth Kley
+  art: Art
+  bio: Elisabeth Kley is based in New York City. Her work is represented by CANADA in New York, GAVLAK in Palm Beach, and SEASON in Seattle.
+- name: David Mills
+  artist: David Mills
+  art: Poetry
+  bio: "David Mills is the author of two books of poetry The Dream Detective (a small-press besteller) and The Sudden Country (a book-prize finalist). His work has appeared in Ploughshares, Jubilat, Fence, Callaloo, The Pedestal Magazine, Cover Magazine and Brooklyn Rail. He has received fellowships from Breadloaf, NYFA, Queens Council of the Arts and ArtsLink. Mills has an MFA in Creative Writing from Warren Wilson College and an MA in creative writing from New York University"
+- name: Michael McClure
+  artist: Michael McClure
+  art: Poetry
+  bio: At the age of 22 Michael McClure gave his first poetry reading at the legendary Six Gallery event in San Francisco, where Allen Ginsberg first read Howl. At 83, McClure is more active than ever, writing and performing his poetry at festivals, and colleges and clubs across the country.

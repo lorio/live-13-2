@@ -1074,7 +1074,7 @@ h2.title {
 #home img:not(a) {
   pointer-events: auto;
 }
-
+#thirteen strong,
 #about strong {
   font-family: Courier, "Lucida Sans Typewriter", "Lucida Typewriter", "Courier New", "American Typewriter";
   font-weight: bolder;
